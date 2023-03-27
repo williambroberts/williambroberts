@@ -4,12 +4,14 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/williambroberts/)
 - 💻 Python Coder
 - 🎓 Studied at Oxford University
-- 📝 I’m currently learning Data Analysis | python 
+- 📝 I’m currently learning Front-End | python | JavaScript
 - 📫 Reach out to me: 3williamroberts@gmail.com
 - 🚀 My main skills are
 <p align='center'>
   <img src="https://img.shields.io/badge/python3-2312100E.svg?&style=for-the-badge&logo=python3&logoColor=yellow&color=blue" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />                
 </p>
 
 <!--
