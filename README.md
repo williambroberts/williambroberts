@@ -1,4 +1,4 @@
-### Hi there 🧰
+### Hi there 🧰![](https://komarev.com/ghpvc/?username=your-github-williambroberts&color=dc143c)
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/thew1lego/)
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/williambroberts)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/williambroberts/)
