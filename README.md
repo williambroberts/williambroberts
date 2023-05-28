@@ -6,8 +6,9 @@
 - 🎓 Studied at Oxford University
 - 📝 I’m currently learning Front-End | Python3 | JavaScript
 - 📫 Reach out to me: 3williamroberts@gmail.com
-- 🚀 My main skills are
+
 - I'd ask you for an infinite loop joke but I'd never hear the end of it
+- 🚀 My main skills are
 <p align='center'>
   
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
