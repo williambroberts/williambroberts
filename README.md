@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/thew1lego/)
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/williambroberts)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/williambroberts/)
-- 💻 Python Coder
+- 💻 JavaScript Coder
 - 🎓 Studied at Oxford University
 - 📝 I’m currently learning Front-End | Python3 | JavaScript
 - 📫 Reach out to me: 3williamroberts@gmail.com
