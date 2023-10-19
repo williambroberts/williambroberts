@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/williambroberts/)
 - 💻 JavaScript Coder
 - 🎓 Studied at Oxford University
-- 📝 I’m currently learning Front-End | Python3 | JavaScript
+- 📝 I’m currently learning 
 - 📫 Reach out to me: 3williamroberts@gmail.com
 
 - I'd ask you for an infinite loop joke but I'd never hear the end of it
